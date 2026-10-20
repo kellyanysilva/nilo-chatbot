@@ -1,0 +1,20 @@
+# Arquivos Python temporários
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivo local gerado pelo chatbot (pode conter texto digitado)
+perguntas_sem_resposta.txt
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
