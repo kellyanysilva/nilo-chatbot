@@ -138,7 +138,7 @@ Este projeto ajuda a praticar:
 
 Projeto desenvolvido para fins de aprendizagem na disciplina **Introdução à Inteligência Artificial**, do curso de Bacharelado em Engenharia de Software.
 
-**Autora:** [Seu nome]
+**Autora:** [Kellyany Silva]
 
 ---
 
